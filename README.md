@@ -2,7 +2,7 @@
 <h3>🔭 I'm an aspiring frontend developer.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on an e-commerce project using the MERN stack (MongoDB, Express.js, React, Node.js).<br>👯 I’m looking to collaborate on open-source frontend development projects, especially those involving complex UI/UX challenges.<br>🤝 I’m looking for help with system design, especially in creating scalable and efficient architectures for complex applications.<br>🌱  I’m currently learning advanced CSS techniques and exploring the capabilities of CSS Grid and Flexbox for responsive layouts.<br>
+👯 I’m looking to collaborate on open-source frontend development projects, especially those involving complex UI/UX challenges.<br>🤝 I’m looking for help with system design, especially in creating scalable and efficient architectures for complex applications.<br>🌱  I’m currently learning advanced CSS techniques and exploring the capabilities of CSS Grid and Flexbox for responsive layouts.<br>
 
 
 - 📫 How to reach me **rishavbarman.dev@gmail.com**
