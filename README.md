@@ -2,7 +2,7 @@
 <h3>🔭 I'm an aspiring fullstack developer.</h3>
 
 # 💫 About Me:
-👯 I’m looking to collaborate on open-source frontend development projects, especially those involving complex UI/UX challenges.<br>🤝 I’m looking for help with system design, especially in creating scalable and efficient architectures for complex applications.
+👯 I’m looking to collaborate on open-source fullstack development projects, especially those involving complex UI/UX challenges.<br>🤝 I’m looking for help with system design, especially in creating scalable and efficient architectures for complex applications.
 
 
 - 📫 How to reach me **rishavbarman.dev@gmail.com**
@@ -20,6 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=rishavbarman-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishavbarman-dev&theme=dark&hide_border=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavbarman-dev&theme=dark&hide)
+
 
 
 ### 🔝 Top Contributed Repo
