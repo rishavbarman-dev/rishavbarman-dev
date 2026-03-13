@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Rishav Barman</h1>
+<h1>Hi, I'm Rishav Barman</h1>
 <h3>🔭 I'm an aspiring fullstack developer.</h3>
 
 # 💫 About Me:
