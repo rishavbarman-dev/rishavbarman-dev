@@ -1,7 +1,7 @@
 <h1>Hi, I'm Rishav Barman</h1>
 <h3>🔭 I'm an aspiring fullstack developer.</h3>
 
-# 💫 About Me:
+# About Me:
 👯 I’m looking to collaborate on open-source fullstack development projects, especially those involving complex UI/UX challenges.<br>🤝 I’m looking for help with system design, especially in creating scalable and efficient architectures for complex applications.
 
 
